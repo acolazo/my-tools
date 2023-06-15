@@ -3,7 +3,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 # Install autojump
 git clone https://github.com/wting/autojump.git
-python3 autojump/install.py
+cd autojump && python3 install.py
 
 # Enable oh-my-zsh plugins
 sed -i "s/plugins=(.*)/plugins=(autojump command-not-found encode64 git git-flow github history-substring-search pip systemd colored-man-pages)/g" ~/.zshrc

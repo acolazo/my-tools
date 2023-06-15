@@ -1,16 +1,18 @@
 # My Tools
 
 ## Installation
-1. Run with sudo.
+1. chmod +x my-tools.sh
+2. chmod +x oh-my-zsh.sh
+3. Run with sudo.
 ```
 sudo ./my-tools.sh
 ```
-2. Run without sudo.
+4. Run without sudo.
 ```
 ./oh-my-zsh.sh
 ```
-3. Accept oh-my-zsh as default shell
-4. When ZSH shells opens type "exit" and press enter so the script continues running.
+5. Accept oh-my-zsh as default shell
+6. When ZSH shells opens type "exit" and press enter so the script continues running.
 
 ## Installed tools
 - nano
