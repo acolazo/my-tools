@@ -25,11 +25,11 @@ sudo ./my-tools.sh
 6. When the ZSH shell opens type "exit" and press enter so the script continues executing.
 
 ## Installed tools
-- nano
 - zsh
 - oh-my-zsh
 - terminator
 - git
+- nano
 - curl
 - wget
 - autojump
@@ -61,10 +61,10 @@ Sets the theme **dieter**.
   - I don't care about cookies
   - Dark Reader
 - Python
-  - Pyenv
   - Poetry
-  - Black
+  - Pyenv
   - Ruff
+  - Black
   - isort
   - flake8
 - C++
