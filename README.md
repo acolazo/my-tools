@@ -56,7 +56,7 @@ Sets the theme **dieter**.
 
 - Docker/Rocker
 - Planner (Flatpak)
-- Firefox Plugins
+- Firefox Add-ons
   - Ublock Origin
   - I don't care about cookies
   - Dark Reader
@@ -69,7 +69,7 @@ Sets the theme **dieter**.
   - flake8
 - C++
   - Valgrind
-- VSCode Plugins
+- VSCode Extensions
   - C++
     - Better C++ Syntax
     - C-mantic
