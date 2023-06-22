@@ -1,6 +1,9 @@
 # My Tools
 
-This repository has a list of tools I use for my workspace. The 2 scripts automatically install and configure the tools listed in the [Installed Tools](#installed-tools) section. The tools that are not automated are mentioned in the [Other Tools](#other-tools) section.
+Collection of tools for development.
+
+The shell scripts will automatically install and configure the tools listed in the [Installed Tools](#installed-tools) section. More tools are mentioned in the [Other Tools](#other-tools) section.
+
 ## Installation
 1.
 ```
