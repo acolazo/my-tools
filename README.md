@@ -1,6 +1,9 @@
 # My Tools
 
-This repository has a list of tools I use for my workspace. The 2 scripts automatically install and configure the tools listed in the [Installed Tools](#installed-tools) section. The tools that are not automated are mentioned in the [Other Tools](#other-tools) section.
+Collection of tools for development.
+
+The shell scripts will automatically install and configure the tools listed in the [Installed Tools](#installed-tools) section. More tools are mentioned in the [Other Tools](#other-tools) section.
+
 ## Installation
 1.
 ```
@@ -22,12 +25,15 @@ sudo ./my-tools.sh
 6. When the ZSH shell opens type "exit" and press enter so the script continues executing.
 
 ## Installed tools
-- nano
 - zsh
 - oh-my-zsh
 - terminator
 - git
+<<<<<<< HEAD
 - tig
+=======
+- nano
+>>>>>>> f7fb39409dac6e3d5527405490936a4fb5f40718
 - curl
 - wget
 - autojump
@@ -54,20 +60,20 @@ Sets the theme **dieter**.
 
 - Docker/Rocker
 - Planner (Flatpak)
-- Firefox Plugins
+- Firefox Add-ons
   - Ublock Origin
   - I don't care about cookies
   - Dark Reader
 - Python
-  - Pyenv
   - Poetry
-  - Black
+  - Pyenv
   - Ruff
+  - Black
   - isort
   - flake8
 - C++
   - Valgrind
-- VSCode Plugins
+- VSCode Extensions
   - C++
     - Better C++ Syntax
     - C-mantic
