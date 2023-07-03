@@ -7,6 +7,7 @@ apt-get install zsh -y
 apt-get install curl -y
 apt-get install wget -y
 apt-get install git -y
+apt-get install tig -y
 
 # snap
 snap install code --classic

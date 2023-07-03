@@ -27,6 +27,7 @@ sudo ./my-tools.sh
 - oh-my-zsh
 - terminator
 - git
+- tig
 - curl
 - wget
 - autojump
