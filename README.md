@@ -29,11 +29,8 @@ sudo ./my-tools.sh
 - oh-my-zsh
 - terminator
 - git
-<<<<<<< HEAD
 - tig
-=======
 - nano
->>>>>>> f7fb39409dac6e3d5527405490936a4fb5f40718
 - curl
 - wget
 - autojump
@@ -56,8 +53,9 @@ The following plugins are enabled:
 
 Sets the theme **dieter**.
 
-## Other tools
+## Other tools (not automated)
 
+- Ranger
 - Docker/Rocker
 - Planner (Flatpak)
 - Firefox Add-ons
