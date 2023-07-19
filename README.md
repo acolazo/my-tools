@@ -81,3 +81,4 @@ Sets the theme **dieter**.
     - Pylance
   - Dev Containers
   - GitLens
+- Tmux
